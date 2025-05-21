@@ -11,7 +11,7 @@ let package = Package(
     targets: [
         .target(
             name: "SwiftPhotoGallery",
-            path: "Example/SwiftPhotoGallery"
+            path: "Pod"
         )
     ]
 )
